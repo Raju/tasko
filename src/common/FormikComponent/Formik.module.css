@@ -1,0 +1,12 @@
+/** @format */
+
+.fieldset {
+	border: 0;
+	padding-bottom: 8px;
+}
+
+.error {
+	color: red;
+	font-size: 13px;
+	margin: 2px 0 -17px 0;
+}

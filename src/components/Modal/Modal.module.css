@@ -1,0 +1,21 @@
+/* Modal.module.css */
+
+.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #FFFFFF;
+  border: 1px solid #88909D20;
+  padding: 30px;
+  width: 40%;
+  border-radius: 5px;
+}
+
+.input {
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  outline: none;
+  width: 100%;
+}

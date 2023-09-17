@@ -1,0 +1,13 @@
+/** @format */
+
+.addPanelButton {
+	background: #C6F6D5;
+	color: #22543D;
+	border-radius: 10px;
+	padding: 2px 6px;
+	font-size: 13px;
+	position: fixed;
+	top: 0;
+	left: 50%;
+	transform: translateX(-50%);
+}

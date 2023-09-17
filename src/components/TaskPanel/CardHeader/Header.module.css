@@ -1,0 +1,25 @@
+/** @format */
+
+.title {
+	border-radius: 10px;
+	box-shadow: none;
+	font-weight: bold;
+	padding: 2px 6px;
+	min-width: 0;
+	font-size: 12px;
+}
+
+.addtask {
+	background: #edf2f7;
+	color: #718096;
+	box-shadow: none;
+	padding: 2.5px;
+}
+
+.sort {
+	background: #edf2f7;
+	color: #718096;
+	border-radius: 10px;
+	padding: 2px 6px;
+	font-size: 12px;
+}
